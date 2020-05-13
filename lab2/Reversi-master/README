@@ -1,0 +1,2 @@
+This is the Reversi game using CLS and STM that is created by Cuong Nguyen and Hieu Nguyen.
+All the data are store on board.game, game.stm( store both precriptive and descriptive data), game.play. We store some parts of the data on board.txt, stmknowledge.txt (prescriptive knowledge), play.txt and stm.txt (descriptive information) to make it easily to read.
